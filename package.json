@@ -1,0 +1,20 @@
+{
+  "name": "mediahuella-basetheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx mix watch",
+    "watch": "theme watch --allow-live",
+    "deploy": "theme deploy"
+  },
+  "keywords": [],
+  "author": "Zobek-dev",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "laravel-mix": "^6.0.49",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}

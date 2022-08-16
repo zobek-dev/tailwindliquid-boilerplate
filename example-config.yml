@@ -1,0 +1,4 @@
+development:
+  password: your-themekitapp-token
+  theme_id: "your-theme-id"
+  store: example-store.myshopify.com
